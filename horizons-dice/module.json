@@ -1,5 +1,6 @@
 {
 	"name": "horizons-dice",
+	"id": "horizons-dice",
 	"title": "Horizon's Dice Collection",
 	"description": "Module that adds custom dice texture for the Dice-So-Nice! module",
 	"version": "0.1.1",
@@ -14,7 +15,7 @@
 		}
 		],
 	"download": "https://github.com/cfritsky67/fvtt-module-horizons_dice/raw/main/module.zip",
-	"manifest": "https://github.com/cfritsky67/fvtt-module-horizons_dice/raw/main/horizons-dice/module.json",
+	"manifest": "https://raw.githubusercontent.com/cfritsky67/fvtt-module-horizons_dice/main/horizons-dice/module.json",
 	"compatibleCoreVersion": "10",
 	"compatibility": {
 		"minimum": "0.7.9",
