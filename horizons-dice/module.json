@@ -15,7 +15,7 @@
 		}
 		],
 	"download": "https://github.com/cfritsky67/fvtt-module-horizons_dice/raw/main/module.zip",
-	"manifest": "https://github.com/cfritsky67/fvtt-module-horizons_dice/raw/main/horizons-dice/module.json"
+	"manifest": "https://github.com/cfritsky67/fvtt-module-horizons_dice/raw/main/horizons-dice/module.json",
 	"compatibleCoreVersion": "10",
 	"compatibility": {
 		"minimum": "0.7.9",
