@@ -1,7 +1,7 @@
 Hooks.on('diceSoNiceReady', (dice3d) => {
     
     dice3d.addTexture("Clueless", {
-        name: "Clueless",
+        name: "🪐Clueless",
         composite: "source-over",
         source: "modules/horizons-dice/textures/stills/clueless.webp",
     });
