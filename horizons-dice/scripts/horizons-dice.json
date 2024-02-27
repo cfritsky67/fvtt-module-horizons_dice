@@ -1,4 +1,4 @@
-Hooks.once('diceSoNiceReady', (dice3d) => {
+Hooks.on('diceSoNiceReady', (dice3d) => {
     
     dice3d.addTexture("Clueless", {
         name: "Clueless",
