@@ -11,7 +11,7 @@
 	    "name": "Horizon"
 	    }
 	  ],
-	"scripts": ["scripts/horizons-dice.json"],
+	"scripts": ["scripts/horizons-dice.js"],
 	"dependencies":[
 		{
 		"name": "dice-so-nice",
