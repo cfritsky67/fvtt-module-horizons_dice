@@ -15,5 +15,5 @@
 				}
 		],
 		"download": //module zip url goes here,
-		"manifest": //module.json url goes here
+		"manifest": //raw module.json url goes here
 }
