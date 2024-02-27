@@ -1,6 +1,5 @@
 {
 	"name": "horizons-dice",
-	"id": "horizons-dice",
 	"title": "Horizon's Dice Collection",
 	"description": "Module that adds custom dice texture for the Dice-So-Nice! module",
 	"version": "0.1.1",
