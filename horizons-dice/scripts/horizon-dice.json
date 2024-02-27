@@ -1,10 +1,9 @@
 Hooks.once('diceSoNiceReady', (dice3d) => {
     
     dice3d.addTexture("Clueless", {
-        name: "☄️Clueless",
+        name: "Clueless",
         composite: "source-over",
         source: "modules/horizons-dice/textures/animated/clueless.webm",
-        bump: "modules/horizons-dice/textures/animated/clueless.webm"
     });
 
 });
