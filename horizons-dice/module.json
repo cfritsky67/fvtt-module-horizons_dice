@@ -1,25 +1,24 @@
 {
-    "name": "horizons-dice",
-		"id": "horizons-dice",
-    "title": "Horizon's Dice Collection",
-    "description": "Module that adds custom dice texture for the Dice-So-Nice! module",
-		"version": "0.1.1",
-		"minimumCoreVersion": "0.7.0",
-		"readme": "https://github.com/cfritsky67/fvtt-module-horizons_dice/blob/main/README.md",
-		"author": "Horizon",
-	
-		"scripts": ["scripts/main.json"],
-		"dependencies":[
-				{
-						"name": "dice-so-nice",
-						"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
-				}
+	"name": "horizons-dice",
+	"id": "horizons-dice",
+	"title": "Horizon's Dice Collection",
+	"description": "Module that adds custom dice texture for the Dice-So-Nice! module",
+	"version": "0.1.1",
+	"minimumCoreVersion": "0.7.0",
+	"readme": "https://github.com/cfritsky67/fvtt-module-horizons_dice/blob/main/README.md",
+	"author": "Horizon",
+	"scripts": ["scripts/main.json"],
+	"dependencies":[
+		{
+		"name": "dice-so-nice",
+		"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
+		}
 		],
-		"download": "https://github.com/cfritsky67/fvtt-module-horizons_dice/raw/main/module.zip",
-		"manifest": "https://github.com/cfritsky67/fvtt-module-horizons_dice/raw/main/horizons-dice/module.json"
-	  "compatibleCoreVersion": "10",
-	  "compatibility": {
-	    "minimum": "0.7.9",
-	    "verified": 11,
-	    "maximum": 11
+	"download": "https://github.com/cfritsky67/fvtt-module-horizons_dice/raw/main/module.zip",
+	"manifest": "https://github.com/cfritsky67/fvtt-module-horizons_dice/raw/main/horizons-dice/module.json"
+	"compatibleCoreVersion": "10",
+	"compatibility": {
+		"minimum": "0.7.9",
+		"verified": 11,
+		"maximum": 11
 }
