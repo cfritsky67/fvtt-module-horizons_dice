@@ -14,6 +14,6 @@
 						"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
 				}
 		],
-		"download": https://github.com/cfritsky67/horizon_dice/releases/download/v0.1.1/module.zip,
+		"download": https://github.com/cfritsky67/horizon_dice/blob/bf45c8b086d1dcfcb2a83a98fc532fbecf50a546/module.zip,
 		"manifest": https://raw.githubusercontent.com/cfritsky67/horizon_dice/v0.1.1/module.json
 }
