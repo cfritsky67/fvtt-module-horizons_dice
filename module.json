@@ -1,0 +1,19 @@
+{
+    "name": "horizon-dice",
+    "title": "Horizon's Dice",
+    "description": "Module that adds custom dice texture for the Dice-So-Nice! module",
+		"author": "Horizon",
+		"version": "0.1.1",
+		"minimumCoreVersion": "0.7.0",
+		"scripts": [
+				"scripts/main.js"
+		],
+		"dependencies":[
+				{
+						"name": "dice-so-nice",
+						"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
+				}
+		],
+		"download": //module zip url goes here,
+		"manifest": //module.json url goes here
+}
