@@ -11,7 +11,7 @@
 	    "name": "Horizon"
 	    }
 	  ],
-	"scripts": ["scripts/main.json"],
+	"scripts": ["scripts/horizon.json"],
 	"dependencies":[
 		{
 		"name": "dice-so-nice",
