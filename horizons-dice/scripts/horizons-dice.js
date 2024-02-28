@@ -1,4 +1,4 @@
-Hooks.on('diceSoNiceReady', (dice3d) => {
+Hooks.once('diceSoNiceIni', (dice3d) => {
 
 	dice3d.addTexture("giftest", {
 	    name: "HDC - giftest",
